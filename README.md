@@ -12,7 +12,12 @@
 <a href="https://swethaswinirajmohan.framer.website/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:swethaswinirajmohan17@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 <a href="https://github.com/23z156-wq"><img src="https://img.shields.io/github/followers/23z156-wq?style=for-the-badge&color=111111&labelColor=111111&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/swethaswini-rajmohan-580b702a5">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/23z156-wq">
+<img src="https://img.shields.io/github/followers/23z156-wq?style=for-the-badge"/>
+</a>
 </div>
 
 <br/>
