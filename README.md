@@ -202,16 +202,16 @@ Regional Winner & National Top 12
 <div align="center">
 
 <a href="https://github.com/23z156-wq/gigshield">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=gigshield&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
+  <img width="47%" src="https://https://https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=gigshield&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
 </a>
 <a href="https://github.com/23z156-wq/aeroAID-AI-module">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=aeroAID-AI-module&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
+  <img width="47%" src="https://https://https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=aeroAID-AI-module&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
 </a>
 <a href="https://github.com/23z156-wq/optimal_dump_packing">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=optimal_dump_packing&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
+  <img width="47%" src="https://https://https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=optimal_dump_packing&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
 </a>
 <a href="https://github.com/23z156-wq/certigen">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=certigen&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
+  <img width="47%" src="https://https://https://github-readme-stats.vercel.app/api/pin/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=gigshield&theme=tokyonight&hide_border=true&cache_seconds=1800/?username=23z156-wq&repo=certigen&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9C9CA" />
 </a>
 
 </div>
