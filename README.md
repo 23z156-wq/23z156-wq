@@ -23,11 +23,45 @@
 <!-- ============ ABOUT ============ -->
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=300&height=40&lines=About" />
 
-B.E. Computer Science and Engineering student at PSG Institute of Technology and Applied Research, Coimbatore, currently in third year with a CGPA of 8.98.
+<div align="center">
 
-Most recently completed a Systems Engineering internship at Caterpillar India Engineering Solutions, where I built a SysML-based automation tool that generates system architecture diagrams directly from input requirements, applying model-driven engineering principles to improve traceability across systems engineering workflows.
+> ### Building intelligent systems where AI meets software engineering.
 
-My work spans embedded and edge AI systems (real-time object detection and depth estimation on Raspberry Pi 5, LoRa-based remote health monitoring), full-stack development (Flask, React, Node.js), and applied machine learning (CycleGAN-based medical image synthesis, defect classification pipelines). I also co-authored an IEEE conference paper on cryptojacking detection and have two patents filed.
+</div>
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+I'm **Swethaswini Rajmohan**, a third-year **Computer Science and Engineering** student at **PSG Institute of Technology and Applied Research** with a **CGPA of 8.98**.
+
+Most recently, I completed a **Systems Engineering Internship at Caterpillar India Engineering Solutions**, where I developed a **SysML-based automation tool** that transforms system requirements into architecture diagrams, improving traceability through model-driven engineering.
+
+My interests span across:
+
+- Computer Vision & Edge AI
+- Systems Engineering & Model-Based Design
+- Full-Stack Development
+- Embedded Systems & IoT
+- Applied Machine Learning
+
+Beyond coursework, I enjoy building products for hackathons, conducting research, and solving real-world engineering problems through AI-driven solutions.
+
+</td>
+
+<td width="32%" align="center">
+
+<img src="https://img.shields.io/badge/CGPA-8.98-7F5AF0?style=for-the-badge"/><br><br>
+
+<img src="https://img.shields.io/badge/Intern-Caterpillar-FFB703?style=for-the-badge"/><br><br>
+
+<img src="https://img.shields.io/badge/IEEE-Author-00C9A7?style=for-the-badge"/><br><br>
+
+<img src="https://img.shields.io/badge/Patents-2-F25F5C?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
