@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ ANIMATED BANNER (Capsule Render) ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hi,%20This is %20Swethaswini Rajmohan%20 &fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Edge%20AI%20%7C%20Full-Stack%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hi,%20I'm%20Swethaswini%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Edge%20AI%20%7C%20Full-Stack%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ============ TYPING SVG ============ -->
 <a href="https://git.io/typing-svg">
