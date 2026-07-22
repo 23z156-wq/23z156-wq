@@ -70,27 +70,89 @@ Beyond academics, I enjoy building products for hackathons, publishing research,
 </table>
 
 <br/>
-<!-- ============ ACHIEVEMENTS ============ -->
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=400&height=40&lines=Achievements" />
+<!-- ============ CAREER HIGHLIGHTS ============ -->
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=450&height=40&lines=Career+Highlights" />
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Industry & Research
+
+🏢 **Systems Engineering Intern**  
+Caterpillar India Engineering Solutions
+
+🔬 **Research Intern**  
+IIITDM Kancheepuram
+
+📄 **IEEE Conference Author**  
+Early Behavioral Detection of Cryptojacking Malware
+
+💡 **2 Patents Filed**  
+SkyMorph • HeLoRa
+
+</td>
+
+<td width="50%" valign="top">
+
+### Recognition
+
+🏆 **Young Innovator Award 2026**  
+PSG Institute of Technology and Applied Research
+
+🥇 **Industrial Academia Conclave Expo '25**  
+Winner · Top 1 / 20
+
+🥈 **SanDisk Hackathon '26**  
+1st Runner-Up · Top 2 / 500
+
+🏅 **Infosys Global Hackathon '25**  
+Regional Winner & National Top 12
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ============ HACKATHONS ============ -->
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=420&height=35&lines=Competitive+Achievements" />
 
 <div align="center">
 
-| Recognition | Event |
-|---|---|
-| 1st Runner-Up — Top 2 of 500 | SanDisk Hackathon '26 |
-| Finalist — Top 10 of 2,500+ | Caterpillar Techathon '25 |
-| 2nd Runner-Up — Top 180 of 65,000 | JPMorgan Chase Code for Good Hackathon '25 |
-| 3rd Runner-Up — Top 3 of 6,000 | Infosys Global Hackathon '25 |
-| Winner — Top 1 of 20 | Industrial Academia Conclave Expo '25 |
-| Finalist — Top 8 of 300 | SAP Hackfest '26 |
-| Semi-Finalist — Top 100 | Adobe India Hackathon '25 |
-| Regional Winner — Top 10 of 40,000+ | ICT YouthTalk '25 |
-| Young Innovator Award | PSG iTech, 2026 |
+| Competition | Achievement |
+|:--|:--|
+| **Caterpillar Techathon '25** | **Top 5 Finalist** |
+| **JPMorgan Chase Code for Good '25** | **Top 7 Finalist** |
+| **SAP Hackfest '26** | **Top 8 Finalist** |
+| **Hack On Titan '25** | **Top 10 Finalist** |
+| **Anokha Ideathon** | **Top 10 Finalist** |
+| **Ideathon '25** | **Top 20 Finalist** |
+| **Adobe India Hackathon '25** | **Semi-Finalist** |
+| **GuideWire Hackathon '26** | **Semi-Finalist** |
+| **Build With India Hackathon** | **Semi-Finalist** |
+| **Hack Nation AI** | **Finalist** |
+| **ICT YouthTalk '25** | **Regional Finalist – Round 2** |
 
 </div>
 
-<br/>
+<br>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hackathons-15+-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-4-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IEEE_Papers-1-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Patents-2-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Awards-10+-FF5D73?style=for-the-badge"/>
+
+</div>
+
+<br>
 <!-- ============ TECH STACK ============ -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=400&height=40&lines=Tech+Stack" />
 
