@@ -31,40 +31,45 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
 I'm **Swethaswini Rajmohan**, a third-year **Computer Science and Engineering** student at **PSG Institute of Technology and Applied Research** with a **CGPA of 8.98**.
 
-Most recently, I completed a **Systems Engineering Internship at Caterpillar India Engineering Solutions**, where I developed a **SysML-based automation tool** that transforms system requirements into architecture diagrams, improving traceability through model-driven engineering.
+I recently completed a **Systems Engineering Internship at Caterpillar India Engineering Solutions**, where I built a **SysML-based automation tool** that generates system architecture diagrams from requirements using model-driven engineering principles.
 
-My interests span across:
+Previously, I worked as a **Research Intern at IIITDM Kancheepuram**, focusing on **cryptojacking detection and web-based cybersecurity research**, contributing to early threat detection methodologies.
+
+My interests span:
 
 - Computer Vision & Edge AI
-- Systems Engineering & Model-Based Design
+- Systems Engineering & MBSE
 - Full-Stack Development
 - Embedded Systems & IoT
 - Applied Machine Learning
 
-Beyond coursework, I enjoy building products for hackathons, conducting research, and solving real-world engineering problems through AI-driven solutions.
+Beyond academics, I enjoy building products for hackathons, publishing research, and transforming ideas into practical engineering solutions. My work has been recognized with the **Young Innovator Award 2026** at PSG iTech and includes an **IEEE conference publication** along with **two filed patents**.
 
 </td>
 
-<td width="32%" align="center">
+<td width="30%" align="center">
 
 <img src="https://img.shields.io/badge/CGPA-8.98-7F5AF0?style=for-the-badge"/><br><br>
 
-<img src="https://img.shields.io/badge/Intern-Caterpillar-FFB703?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/Caterpillar-Systems%20Engineering%20Intern-FFB703?style=for-the-badge"/><br><br>
 
-<img src="https://img.shields.io/badge/IEEE-Author-00C9A7?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/IIITDM-Research%20Intern-00C9A7?style=for-the-badge"/><br><br>
 
-<img src="https://img.shields.io/badge/Patents-2-F25F5C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Young%20Innovator%20Award-2026-FF4D6D?style=for-the-badge"/><br><br>
+
+<img src="https://img.shields.io/badge/IEEE-Author-3B82F6?style=for-the-badge"/><br><br>
+
+<img src="https://img.shields.io/badge/Patents-2-F97316?style=for-the-badge"/>
 
 </td>
 </tr>
 </table>
 
 <br/>
-
 <!-- ============ ACHIEVEMENTS ============ -->
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=1&pause=100000&color=EAEAEA&center=false&vCenter=true&repeat=false&width=400&height=40&lines=Achievements" />
 
