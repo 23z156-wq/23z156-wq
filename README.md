@@ -15,9 +15,7 @@
 <a href="https://www.linkedin.com/in/swethaswini-rajmohan-580b702a5">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/23z156-wq">
-<img src="https://img.shields.io/github/followers/23z156-wq?style=for-the-badge"/>
-</a>
+
 </div>
 
 <br/>
